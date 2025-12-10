@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+openpyxl
+seaborn
+Boruta ## the feature selection alg
+scipy
+imbalanced-learn ## here the RusBoost classofier
+statsmodels
+plotly

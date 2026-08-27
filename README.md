@@ -16,6 +16,11 @@
     pip install -r requirements.txt
 
 
+-------
+## Calibration results
+[Calibration_testSet](https://github.com/SimBoex/Adrenocortical-Classification/tree/main/Calibration_testSet)
+
+
 
 
 
